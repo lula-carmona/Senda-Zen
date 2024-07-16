@@ -916,7 +916,7 @@ section {
   background-color: #4DCCFF;
 }
 .call-to-action2 .container {
-  background: linear-gradient(rgba(0, 0, 0, 0.122), rgba(0, 0, 0, 0.451)), url("/Users/lucianacarmona/Documents/Impact-2/assets/Imagenes/video.jpg") center center;
+  background: linear-gradient(rgba(0, 0, 0, 0.122), rgba(0, 0, 0, 0.451)), url("Imagenes/video.jpg") center center;
   background-size: cover;
   padding: 150px 60px;
   border-radius: 100px;
