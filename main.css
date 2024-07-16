@@ -928,7 +928,7 @@ section {
 # Call To Action Section
 --------------------------------------------------------------*/
 .call-to-action .container {
-  background: linear-gradient(rgba(0, 0, 0, 0.122), rgba(0, 0, 0, 0.451)), url("/Users/lucianacarmona/Documents/Impact-2/assets/Imagenes/video.jpg") center center;
+  background: linear-gradient(rgba(0, 0, 0, 0.122), rgba(0, 0, 0, 0.451)), url("Imagenes/video.jpg") center center;
   background-size: cover;
   padding: 150px 60px;
   border-radius: 100px;
@@ -1623,7 +1623,7 @@ section {
 .pricing .pricing-item1 {
   padding: 40px 20px;
   box-shadow: 0 3px 20px -2px rgba(108, 117, 125, 0.15);
-  background-image: url(/Users/lucianacarmona/Documents/Impact-2/assets/Imagenes/curso2.jpg);
+  background-image: url(Imagenes/curso2.jpg);
   background-size: cover;
   height: 100%;
   position: relative;
@@ -1725,7 +1725,7 @@ section {
 .pricing .pricing-item2 {
   padding: 40px 20px;
   box-shadow: 0 3px 20px -2px rgba(108, 117, 125, 0.15);
-  background-image: url(/Users/lucianacarmona/Documents/Impact-2/assets/Imagenes/curso1.jpg);
+  background-image: url(Imagenes/curso1.jpg);
   background-size: cover;
   height: 100%;
   position: relative;
@@ -1826,7 +1826,7 @@ section {
 .pricing .pricing-item3 {
   padding: 40px 20px;
   box-shadow: 0 3px 20px -2px rgba(108, 117, 125, 0.15);
-  background-image: url(/Users/lucianacarmona/Documents/Impact-2/assets/Imagenes/curso3.jpg);
+  background-image: url(Imagenes/curso3.jpg);
   background-size: cover;
   height: 100%;
   position: relative;
@@ -2309,7 +2309,7 @@ section {
   padding: 60px 30px;
   position: relative;
   overflow: hidden;
-  background-image: url(/Users/lucianacarmona/Documents/Impact-2/assets/Imagenes/Valores18.jpg);
+  background-image: url(Imagenes/Valores18.jpg);
   background-size:cover ;
   box-shadow: 0 0 29px 0 rgba(0, 0, 0, 0.08);
   transition: all 0.3s ease-in-out;
@@ -2343,7 +2343,7 @@ section {
 }
 
 .hero .icon-box:hover {
-  background-image: url(/Users/lucianacarmona/Documents/Impact-2/assets/Imagenes/valores18b.jpg);
+  background-image: url(Imagenes/valores18b.jpg);
 }
 
 .hero .icon-box:hover .title a,
@@ -2355,7 +2355,7 @@ section {
   padding: 60px 30px;
   position: relative;
   overflow: hidden;
-  background-image: url(/Users/lucianacarmona/Documents/Impact-2/assets/Imagenes/Valores19.jpg);
+  background-image: url(Imagenes/Valores19.jpg);
   background-size:cover ;
   box-shadow: 0 0 29px 0 rgba(0, 0, 0, 0.08);
   transition: all 0.3s ease-in-out;
@@ -2389,7 +2389,7 @@ section {
 }
 
 .hero .icon-box2:hover {
-  background-image: url(/Users/lucianacarmona/Documents/Impact-2/assets/Imagenes/valores19b.jpg);
+  background-image: url(Imagenes/valores19b.jpg);
 }
 
 .hero .icon-box2:hover .title a,
@@ -2403,7 +2403,7 @@ section {
   padding: 60px 30px;
   position: relative;
   overflow: hidden;
-  background-image: url(/Users/lucianacarmona/Documents/Impact-2/assets/Imagenes/Valores20.jpg);
+  background-image: url(Imagenes/Valores20.jpg);
   background-size:cover ;
   box-shadow: 0 0 29px 0 rgba(0, 0, 0, 0.08);
   transition: all 0.3s ease-in-out;
@@ -2437,7 +2437,7 @@ section {
 }
 
 .hero .icon-box3:hover {
-  background-image: url(/Users/lucianacarmona/Documents/Impact-2/assets/Imagenes/valores20b.jpg);
+  background-image: url(Imagenes/valores20b.jpg);
 }
 
 .hero .icon-box3:hover .title a,
@@ -2449,7 +2449,7 @@ section {
   padding: 60px 30px;
   position: relative;
   overflow: hidden;
-  background-image: url(/Users/lucianacarmona/Documents/Impact-2/assets/Imagenes/Valores21.jpg);
+  background-image: url(Imagenes/Valores21.jpg);
   background-size:cover ;
   box-shadow: 0 0 29px 0 rgba(0, 0, 0, 0.08);
   transition: all 0.3s ease-in-out;
@@ -2483,7 +2483,7 @@ section {
 }
 
 .hero .icon-box4:hover {
-  background-image: url(/Users/lucianacarmona/Documents/Impact-2/assets/Imagenes/valores21b.jpg);
+  background-image: url(Imagenes/valores21b.jpg);
 }
 
 .hero .icon-box4:hover .title a,
